@@ -1,0 +1,42 @@
+*{
+    font-family: 'Roboto' , sans-serif;
+}
+.bground  {
+    background-color: #28A745;
+    padding: 0 2em 0 2em;
+}
+.height-card {
+    height: 100%;
+}
+.cupones {
+    width: auto;
+    margin: 0;
+}
+img {
+    max-height: 18em;
+}
+.pointer {
+    cursor: pointer;
+}
+.inline {
+    display: inline;
+}
+.old {
+    color: #707070;
+    float: right;
+    max-width: 7em;
+}
+.new {
+    color: #28A745;
+    max-width: 5em;
+    float: right;
+}
+.form-new {
+    background-color: #28A745;
+    color: white;
+    height: 15em;
+    text-align: center;
+}
+footer img {
+    height: 2em;
+}
